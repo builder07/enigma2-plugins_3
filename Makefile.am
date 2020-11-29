@@ -21,7 +21,6 @@ SUBDIRS = \
 	dreamirc \
 	dreammediathek \
 	dvdbackup \
-	easyinfo \
 	easymedia \
 	ecasa \
 	eibox \
@@ -59,13 +58,11 @@ SUBDIRS = \
 	ofdb \
 	orfat \
 	orfteletext \
-	partnerbox \
 	permanentclock \
 	pipservicerelation \
 	podcast \
 	porncenter \
 	pushservice \
-	quickbutton \
 	reconstructapsc \
 	reftopiconname \
 	remotetimer \
@@ -129,7 +126,6 @@ SUBDIRS += \
 	mytube \
 	yttrailer \
 	webinterface \
-	menusort \
 	pluginhider \
 	pluginsort 
 endif
